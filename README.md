@@ -4,7 +4,7 @@ A simple frontend-based mobile banking web application built using HTML, JavaScr
 
 🚀 Live Demo
 
-👉 [(Add your live link here if deployed)](https://niloypaul07.github.io/Payoo-mobile-bank/)
+👉(https://niloypaul07.github.io/Payoo-mobile-bank/)
 
 📌 Features
 💰 Account balance display
